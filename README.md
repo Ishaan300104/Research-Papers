@@ -7,6 +7,8 @@ This papers in this repository can be sub-divided into the following domains:-
 
 ## Natural Language Processing
 
+## Image Generation
+
 ## Reinforcement Learning
 
-## Classical ML-DL (The fundamentals!)
+## Classics/Misc. (The fundamentals!)
